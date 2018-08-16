@@ -1,3 +1,4 @@
+
 package com.mkyong.common;
 
 import junit.framework.Test;
